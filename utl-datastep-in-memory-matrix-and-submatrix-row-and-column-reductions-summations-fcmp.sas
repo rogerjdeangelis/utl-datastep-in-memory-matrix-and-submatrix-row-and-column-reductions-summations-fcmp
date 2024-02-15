@@ -8,7 +8,7 @@ github
 http://tinyurl.com/2xhv2dcz
 https://github.com/rogerjdeangelis/utl-datastep-in-memory-matrix-and-submatrix-row-and-column-reductions-summations-fcmp
 
-The FCMP funcion can be simplified, you do not need 'varargs; anf you  can rearrage the function arguments.
+The FCMP funcion can be simplified, you do not need 'varargs" and you  can rearrage the function arguments.
 
     Two Simplified callxForms
 
