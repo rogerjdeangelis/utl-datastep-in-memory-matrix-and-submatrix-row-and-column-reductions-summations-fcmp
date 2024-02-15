@@ -8,6 +8,15 @@ github
 http://tinyurl.com/2xhv2dcz
 https://github.com/rogerjdeangelis/utl-datastep-in-memory-matrix-and-submatrix-row-and-column-reductions-summations-fcmp
 
+The FCMP funcion can be simplified, you do not need 'varargs; anf you  can rearrage the function arguments.
+
+    Two Simplified callxForms
+
+    Function summation(rc[*,*],args $)
+
+    More useful form when used with datastep do loops
+    function summation(rc[*,*],rbeg,rend,cbeg,cend);
+
 /*               _     _
  _ __  _ __ ___ | |__ | | ___ _ __ ___
 | `_ \| `__/ _ \| `_ \| |/ _ \ `_ ` _ \
